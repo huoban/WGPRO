@@ -1,2 +1,3 @@
 # WGPRO
-用这个控制版本看起来很不错
+这里是 软件版本总控  无内容谢谢
+control the versions  personal Soft information . No content thanks
