@@ -2,7 +2,7 @@
 #==== @author sh4d0walker ====
 #==== @date 2017-07-15 13:59:24====
 
-######苹果
+######鑻规灉
 #apple.com
 #cdn-apple.com
 #icloud.com
@@ -20,7 +20,7 @@ ipset=/whereisip.net/gfwlist
 server=/r18.com/127.0.0.1#5353
 ipset=/r18.com/gfwlist
 
-###谷歌
+###璋锋瓕
 server=/google.com/127.0.0.1#5353
 ipset=/google.com/gfwlist
 
@@ -132,7 +132,7 @@ ipset=/amazonaws.com/gfwlist
 server=/media-amazon.com/127.0.0.1#5353
 ipset=/media-amazon.com/gfwlist
 
-###其他
+###鍏朵粬
 server=/dropbox.com/127.0.0.1#5353
 ipset=/dropbox.com/gfwlist
 
