@@ -1,24 +1,9 @@
 #==== lite gfwlist ====
 #==== @author sh4d0walker ====
-#==== @date 2017-07-15 13:59:24====
+#==== @date 2017-07-15 18:58:48====
 
-######苹果
-#apple.com
-#cdn-apple.com
-#icloud.com
-#apple-dns.net
-######end
 server=/ip.cn/127.0.0.1#5353
 ipset=/ip.cn/gfwlist
-
-server=/ip.wgpro.com/127.0.0.1#5353
-ipset=/ip.wgpro.com/gfwlist
-
-server=/whereisip.net/127.0.0.1#5353
-ipset=/whereisip.net/gfwlist
-
-server=/r18.com/127.0.0.1#5353
-ipset=/r18.com/gfwlist
 
 ###谷歌
 server=/google.com/127.0.0.1#5353
@@ -152,6 +137,9 @@ server=/yahoo.com/127.0.0.1#5353
 ipset=/yahoo.com/gfwlist
 
 ##### av
+server=/r18.com/127.0.0.1#5353
+ipset=/r18.com/gfwlist
+
 server=/t66y.com/127.0.0.1#5353
 ipset=/t66y.com/gfwlist
 
