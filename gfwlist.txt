@@ -152,9 +152,6 @@ ipset=/jwpltx.com/gfwlist
 server=/rarupload.com/127.0.0.1#5353
 ipset=/rarupload.com/gfwlist
 
-server=/ai.okgo.xyz/127.0.0.1#5353
-ipset=/ai.okgo.xyz/gfwlist
-
 server=/video169.com/127.0.0.1#5353
 ipset=/video169.com/gfwlist
 
